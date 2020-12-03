@@ -1,0 +1,13 @@
+C:\Users\Nadeem\source\repos\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.exe
+C:\Users\Nadeem\source\repos\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.deps.json
+C:\Users\Nadeem\source\repos\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.runtimeconfig.json
+C:\Users\Nadeem\source\repos\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.runtimeconfig.dev.json
+C:\Users\Nadeem\source\repos\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.dll
+C:\Users\Nadeem\source\repos\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.pdb
+C:\Users\Nadeem\source\repos\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.csprojAssemblyReference.cache
+C:\Users\Nadeem\source\repos\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.AssemblyInfoInputs.cache
+C:\Users\Nadeem\source\repos\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.AssemblyInfo.cs
+C:\Users\Nadeem\source\repos\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Nadeem\source\repos\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.dll
+C:\Users\Nadeem\source\repos\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.pdb
+C:\Users\Nadeem\source\repos\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.genruntimeconfig.cache
