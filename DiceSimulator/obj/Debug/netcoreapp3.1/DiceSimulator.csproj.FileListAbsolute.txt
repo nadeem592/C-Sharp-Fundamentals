@@ -1,0 +1,13 @@
+C:\Users\Nadeem\source\repos\DiceSimulator\DiceSimulator\bin\Debug\netcoreapp3.1\DiceSimulator.exe
+C:\Users\Nadeem\source\repos\DiceSimulator\DiceSimulator\bin\Debug\netcoreapp3.1\DiceSimulator.deps.json
+C:\Users\Nadeem\source\repos\DiceSimulator\DiceSimulator\bin\Debug\netcoreapp3.1\DiceSimulator.runtimeconfig.json
+C:\Users\Nadeem\source\repos\DiceSimulator\DiceSimulator\bin\Debug\netcoreapp3.1\DiceSimulator.runtimeconfig.dev.json
+C:\Users\Nadeem\source\repos\DiceSimulator\DiceSimulator\bin\Debug\netcoreapp3.1\DiceSimulator.dll
+C:\Users\Nadeem\source\repos\DiceSimulator\DiceSimulator\bin\Debug\netcoreapp3.1\DiceSimulator.pdb
+C:\Users\Nadeem\source\repos\DiceSimulator\DiceSimulator\obj\Debug\netcoreapp3.1\DiceSimulator.csprojAssemblyReference.cache
+C:\Users\Nadeem\source\repos\DiceSimulator\DiceSimulator\obj\Debug\netcoreapp3.1\DiceSimulator.AssemblyInfoInputs.cache
+C:\Users\Nadeem\source\repos\DiceSimulator\DiceSimulator\obj\Debug\netcoreapp3.1\DiceSimulator.AssemblyInfo.cs
+C:\Users\Nadeem\source\repos\DiceSimulator\DiceSimulator\obj\Debug\netcoreapp3.1\DiceSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Nadeem\source\repos\DiceSimulator\DiceSimulator\obj\Debug\netcoreapp3.1\DiceSimulator.dll
+C:\Users\Nadeem\source\repos\DiceSimulator\DiceSimulator\obj\Debug\netcoreapp3.1\DiceSimulator.pdb
+C:\Users\Nadeem\source\repos\DiceSimulator\DiceSimulator\obj\Debug\netcoreapp3.1\DiceSimulator.genruntimeconfig.cache
